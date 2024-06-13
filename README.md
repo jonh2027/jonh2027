@@ -2,7 +2,7 @@
 
 Meu nome é Deivid Reinan
 
-- Estou estudando na escola Roberto amaury galliera doutor
+-Estou estudando na escola Roberto amaury galliera doutor
 
 -Estou me desenvolvendo na linguagem JavaScript
 
