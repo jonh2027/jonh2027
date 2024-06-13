@@ -1,15 +1,13 @@
-Boas vindas ao meu perfil 💙💙
+## Boas vindas ao meu perfil 💙💙
 
-Meu nome é deivid reinan
+Meu nome é Deivid Reinan
 
-.Estou estudando na Alura
+- Estou estudando na escola Roberto amaury galliera doutor
 
-.Estou me desenvolvendo na linguagem JavaScript
+-Estou me desenvolvendo na linguagem JavaScript
 
-.Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-Você pode entrar em contato comigo 📫
+## Você pode entrar em contato comigo 📫
 
-alurastartestudante@email.com
-
-@alurastartestudante
+00001109112579SP@al.educacao.sp.gov.br
